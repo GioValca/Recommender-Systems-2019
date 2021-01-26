@@ -1,0 +1,16 @@
+Parameters tuning log for the hybrid recommender of predictions (second version). 
+This are the recommenders that have been put inside: ['ItemKNNCFRecommender', 'SLIMElasticNetRecommender', 'ItemKNNCBFRecommender', 'RP3betaRecommender', 'UserKNNCFRecommender', 'SLIM_BPR_Recommender']
+
+
+Iteration 0. Result MAP=0.044196  Configuration tried: [0.8, 0.6, 0.5, 0.8, 0.1, 0.5].
+
+
+Found a better config at iteration 0, with MAP:0.044196
+The new best config is: [0.8, 0.6, 0.5, 0.8, 0.1, 0.5]
+
+
+Iteration 1. Result MAP=0.042843  Configuration tried: [0.6, 0.9, 0.5, 0.8, 0.4, 0.3].
+
+
+FINAL RESULT
+Best config is [0.8, 0.6, 0.5, 0.8, 0.1, 0.5] with an incredible MAP of 0.044196

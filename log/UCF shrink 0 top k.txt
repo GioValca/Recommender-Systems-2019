@@ -1,0 +1,9 @@
+Recommender performance is: Precision = 0.0019, Recall = 0.0189, MAP = 0.0102       for K = 10
+Recommender performance is: Precision = 0.0040, Recall = 0.0395, MAP = 0.0220       for K = 50
+Recommender performance is: Precision = 0.0053, Recall = 0.0531, MAP = 0.0291       for K = 100
+Recommender performance is: Precision = 0.0065, Recall = 0.0653, MAP = 0.0337       for K = 200
+Recommender performance is: Precision = 0.0069, Recall = 0.0688, MAP = 0.0352       for K = 250
+Recommender performance is: Precision = 0.0072, Recall = 0.0722, MAP = 0.0375       for K = 400
+Recommender performance is: Precision = 0.0074, Recall = 0.0736, MAP = 0.0381       for K = 500
+Recommender performance is: Precision = 0.0075, Recall = 0.0751, MAP = 0.0379       for K = 750
+Recommender performance is: Precision = 0.0074, Recall = 0.0738, MAP = 0.0377       for K = 1000
